@@ -11,6 +11,8 @@
 #include <sstream>
 #include <fstream>
 #include <cassert>
+#include <vector>
+#include <list>
 
 using namespace std;
 #endif //DSA232_A1_MAIN_H
